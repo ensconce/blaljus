@@ -13,6 +13,7 @@ Projektet skapades endast för att få ytterligare förståelse inom följande f
 
 * npm
 * NodeJS
+* Vue
 * Quasar
 * SPA (single-page-applications)
 * OSM (Openstreetmap)
